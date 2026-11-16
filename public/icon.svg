@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#0F172A"/>
+  <!-- Subtle grid dots -->
+  <circle cx="144" cy="144" r="10" fill="#334155"/>
+  <circle cx="256" cy="144" r="10" fill="#334155"/>
+  <circle cx="368" cy="144" r="10" fill="#334155"/>
+  <circle cx="144" cy="256" r="10" fill="#334155"/>
+  <circle cx="368" cy="368" r="10" fill="#334155"/>
+  <!-- Bent slate-white snake arrow -->
+  <path d="M144 368 L144 256 L256 256 L256 168" fill="none" stroke="#F8FAFC" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="256,112 208,188 304,188" fill="#F8FAFC"/>
+  <!-- Highlight cobalt exit arrow -->
+  <path d="M256 368 L368 368" fill="none" stroke="#1D7AFC" stroke-width="34" stroke-linecap="round"/>
+  <polygon points="424,368 348,320 348,416" fill="#1D7AFC"/>
+</svg>
